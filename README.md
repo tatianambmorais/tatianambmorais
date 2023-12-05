@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Desenvolvedora back-end<br>📚 Cursando Análise e Desenvolvimento de Sistemas ...<br>🎯 Desenvolvimento full-stack<br>🎲 Inglês, espanhol, alemão</p>
+<p align="left">✨ Desenvolvedora back-end<br>📚 Cursando Engenharia de software ...<br>🎯 Desenvolvimento full-stack<br>🎲 Inglês, espanhol, alemão</p>
 
 ###
 
