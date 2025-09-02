@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou Tatiana (mas pode me chamar de Tati!), tenho 27 anos e moro em João Pessoa/PB.</p>
+<p align="left">Sou Tatiana (mas pode me chamar de Tati!), tenho 29 anos e moro em João Pessoa/PB.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Desenvolvedora back-end<br>📚 Cursando Engenharia de software ...<br>🎯 Desenvolvimento full-stack<br>🎲 Inglês, espanhol, alemão</p>
+<p align="left">✨ Desenvolvedora back-end<br>📚 Cursando Sistemas para internet e ...<br>🎯 Desenvolvimento full-stack<br>🎲 Inglês, espanhol, alemão</p>
 
 ###
 
